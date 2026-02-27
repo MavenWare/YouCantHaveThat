@@ -19,3 +19,10 @@ Consider [donating](https://ko-fi.com/jammerz), no pressure 🩷
 - Scans inventory/containers when opened.
 - Detects offhand.
 - Lightweight. Operates completely through player actions.
+
+## Disclaimer
+- If you paid for this, you were scammed.
+- Do not place this or its code behind paywalls.
+- I am not responsible for any nefarious redistributions. 
+- Credit or Link must be provided if distributed in any form.
+- You are free to share or use code but credit must be provided.
